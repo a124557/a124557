@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a124557" alt="a124557" /></a> </p> -->
 
-- 🔭 I’m currently working on [a full stack chatting applicataion.](https://github.com/a124557/Chat-App)
+<!-- - 🔭 I’m currently working on [a full stack chatting applicataion.](https://github.com/a124557/Chat-App) -->
 
 - 🌱 I’m currently learning **Chakra UI, and Python.**
 
