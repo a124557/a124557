@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [a full stack chatting applicataion.](https://github.com/a124557/Chat-App) -->
 
-- 🌱 I’m currently learning **Chakra UI, and Python.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a124557?tab=repositories](https://github.com/a124557?tab=repositories)
 
